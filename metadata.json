@@ -1,0 +1,6 @@
+{
+  "name": "Ustoz 2030",
+  "description": "O'zbekiston ustozlari uchun tayyor Word, Excel va PowerPoint shablonlari platformasi. Tayyor shablonni oling, to'ldiring, ishlating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
